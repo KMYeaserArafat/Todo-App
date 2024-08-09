@@ -1,0 +1,39 @@
+#body{
+    display: inline-block;
+}
+
+
+#TodoCard{
+    background-color: rgb(22, 21, 21);
+    display: inline-block;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+#title{
+    color: gold;
+    font-size: 20px;
+   
+}
+
+#note{
+    color: whitesmoke;
+    font-size: 16px;
+}
+
+#date{
+    color:aquamarine;
+    font-size: 10px;
+    padding-top: 5px;
+}
+
+#btnDelete{
+    background-color: red;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: white;
+    width: 100px;
+}
